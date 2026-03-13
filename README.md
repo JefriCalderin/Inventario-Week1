@@ -56,7 +56,5 @@ Aplicar conceptos básicos de programación como:
 Jefri Calderin
 
 
-##Diagrama de flujo
-
 
 
